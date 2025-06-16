@@ -7,7 +7,7 @@ const rayAngleStep = fov / numRays;
 
 const mobs = [
   {
-    x: 485, // posición en el mundo
+    x: 450, // posición en el mundo
     y: 485,
     radius: 16,
     sprite: new Image()
